@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @GusEbertz!
-- Currently 21yo, Novo Hamburgo - RS - Brazil
+- Currently 23yo, Novo Hamburgo - RS - Brazil
 - 👀 I’m interested in automation software development!
-- 🌱 I’m currently learning .NET with C# and VB.NET
-- 💞️ I’m looking to collaborate on projects that uses any microsoft tool that im already familiar with, such as Visual Studio or .NET Core related!
+- 👀 I’m interested in REST APIs development!
+- 🌱 I’m currently working with ASP.NET Core - C# 
+- 💞️ I’m looking to collaborate on projects that matches my skill set.
 - 📫 You can find me in the email: gustavo.ebertz@gmail.com or phone +55 51 981582966 
 - 
 
