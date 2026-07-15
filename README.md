@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GusEbertz!
-- Currently 23yo, Novo Hamburgo - RS - Brazil
+- Currently 25yo, Novo Hamburgo - RS - Brazil
 - 👀 I’m interested in automation software development!
 - 👀 I’m interested in REST APIs development!
 - 🌱 I’m currently working with ASP.NET Core - C# 
